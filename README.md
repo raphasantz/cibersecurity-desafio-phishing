@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/92AEqq2" data-context="false" ><a href="//imgur.com/a/92AEqq2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
